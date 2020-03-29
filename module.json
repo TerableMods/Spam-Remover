@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Spam Remover",
+	"author": "TerableMods",
+	"description": "Removes annoying global messages and notifications",
+    "options": {
+        "niceName": "Spam Remover",
+		"guiName": "Spam Remover"
+    },
+    "servers": ["https://raw.githubusercontent.com/TerableMods/Spam-Remover/master/"],
+    "supportUrl": "https://github.com/TerableMods/Spam-Remover/issues"
+}

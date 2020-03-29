@@ -1,0 +1,14 @@
+{
+	"files": {
+		"config.json": {
+			"overwrite": false,
+			"hash": "b8724eacf61d31cb060d51829bf519df77cadf71bfc4c5e8fa3cadc0fd61e2fc"
+		},
+		"index.js": "69a8659c4a8a15c9623d825a41a7f5f0ce160fbb1a715b56d05cd967ec177f3a",
+		"module.json": "180d647999791e95814b00468745bb27fb4deb4dff6ed805de6f73fb9db0e623",
+		"README.md": "612615d63b92d89e03635a34135a1a5ed12ec0cf31f94460f0153201f94c12b7"
+	},
+	"defs": {
+		"S_SYSTEM_MESSAGE": 1
+	}
+}
